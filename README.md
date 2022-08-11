@@ -66,14 +66,6 @@
 <br />
 <br />
 
-## My Contribution Graph
-
-![github graph](https://activity-graph.herokuapp.com/graph?username=dsrathore1&theme=react-dark)
-
-
-<br />
-<br />
-
 ## Status :
 
 <p><img align="left" width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsrathore1&show_icons=true&locale=en&layout=compact&theme=bear" alt="dsrathore1" /></p>
